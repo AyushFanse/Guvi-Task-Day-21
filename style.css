@@ -1,0 +1,13 @@
+body {
+    transition: 1s;
+    background-color: rgb(27, 26, 26);
+    background-size: cover;
+    background-position: center;
+}
+.container {
+    height: 720px;
+}
+.display {
+    transition: 3s;
+    text-shadow: 10px 10px 15px black;
+}
